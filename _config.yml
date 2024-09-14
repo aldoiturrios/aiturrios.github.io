@@ -52,6 +52,6 @@ defaults:
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
-remote_theme: katmh/point-theme
+remote_theme: @katmh/point-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
