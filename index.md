@@ -1,32 +1,29 @@
 ---
-title: Home
 ---
 
-<div style="width: 100%;" markdown="1">
+## 🤷 What I do
 
-<div style="width: 42%; float: left;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<img src="assets/AIturrios.jpg" width="100%">
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-</div>
+## 🦕 What I've done before
 
-<div style="margin-left: 46%; white-space: normal;" markdown="1"> 
+Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
 
-## Aldo Iturrios
+Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
 
-Data Scientist<br>US Navy<br>aiturrios12@gmail.com
+Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
 
-Hi! I'm Aldo, I'm a Data Scientist working for the US Navy on a variety of data driven projects. Previously, I worked as a data analyst at [Mathematica](https://www.mathematica.org), [Pandora Media Inc.](https://www.pandora.com/about), and the [Pew Research Center](https://www.pewresearch.org). I earned my MS in Applied Statistics from the University of Michigan and my BA from the University of California, Berkeley. If you'd like to contact me, please reach out to me via email at aiturrios12@gmail.com.
+## 👋🏻 Say hi
 
-</div>
+Wanna chat? Feel free to reach out!
 
----
+- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
+- [Issues](https://github.com/katmh/point-theme/issues)
 
-## Professional Experience
+## 📠 Fun facts
 
-### US Navy
-
-#### Data Scientist
-
-- Develop dynamic dashboards, data preprocessing tools, and visualizations that provide actionable insights to help maintain and improve machine learning architectures that are used to field critical capabilities across the US Navy.
-- Facilitate various project management duties including leading daily stand-up meetings, organizing and prioritizing team work by following Agile methodology, and removing roadblocks to ensure product deadlines are met.
+- You can customize link colors, container width, and fonts in `styles/styles.scss`
+- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
+- Be sure to look through the config file to change the site title, description, homepage greeting, and more
