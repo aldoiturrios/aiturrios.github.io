@@ -6,7 +6,7 @@ title: Home
 
 <div style="width: 42%; float: left;">
 
-<img src="assets/Aiturrios.jpg" width="100%">
+<img src="assets/AIturrios.jpg" width="100%">
 
 </div>
 
